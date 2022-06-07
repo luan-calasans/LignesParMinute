@@ -1,5 +1,5 @@
 <div align="center">
-  <a target="_blank" href="https://luan-calasans.github.io/LignesParMinute/"><img src="https://user-images.githubusercontent.com/69552520/172396666-931901c0-e74d-4221-80e1-c7da4c7935ef.png" width="600px"></a>
+  <img src="https://user-images.githubusercontent.com/69552520/172396666-931901c0-e74d-4221-80e1-c7da4c7935ef.png" width="600px">
   <h1>Lignes Par Minute</h1>
   <p><strong>Lignes Par Minute</strong> is a variation of the website made at the Rocketseat event, <strong>Rocketseat NLW Return.</strong></p>
 </div>
