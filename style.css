@@ -16,7 +16,7 @@
   --brand-light-2: hsl(calc(var(--hue) + 10), 14%, 97%);
   --brand-dark: hsl(var(--hue), 100%, 14%);
 
-  --bg-light: hsl(180, 14%, 97%);
+  --bg-light: hsl(0, 0%, 100%);
 
   font-size: 62.5%; /* 1rem = 10px */
 
