@@ -6,6 +6,7 @@
 
 <h2>🚀 Technologies</h2>
 <ul>
+  <li>PHP</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
