@@ -51,6 +51,11 @@ body {
   padding-inline: 2.4rem;
 }
 
+.wrapper-contact{
+  display: flex;
+  justify-content: center;
+}
+
 ul {
   list-style: none;
 }
