@@ -427,6 +427,7 @@ body.menu-expanded button path {
 }
 
 .contact-title{
+  text-align: center;
   font-size: 3rem;
     display: flex;
     margin: 0 auto;
@@ -518,6 +519,7 @@ footer .social-links {
   }
 
   section header h2 {
+    text-align: center;
     font-size: 4rem;
     line-height: 5.2rem;
   }
@@ -740,6 +742,7 @@ footer .social-links {
   }
 
   .contact-title {
+    text-align: center;
     font-size: 3rem;
     display: flex;
     margin: 0 auto;
