@@ -426,6 +426,19 @@ body.menu-expanded button path {
   gap: 0.8rem;
 }
 
+.contact-title{
+  font-size: 3rem;
+    display: flex;
+    margin: 0 auto;
+    margin-block: 4rem;
+    justify-content: space-around;
+}
+
+.contact-table, .contact-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
 /*=== FOOTER =================================*/
 footer {
   background-color: var(--primary-color);
@@ -724,6 +737,19 @@ footer .social-links {
 
   #contact h2 {
     width: 40.4rem;
+  }
+
+  .contact-title {
+    font-size: 3rem;
+    display: flex;
+    margin: 0 auto;
+    margin-block: 4rem;
+    justify-content: space-around;
+}
+  
+  .contact-table, .contact-form {
+    width: 50%;
+    margin: 0 auto;
   }
 
   /*=== FOOTER =================================*/

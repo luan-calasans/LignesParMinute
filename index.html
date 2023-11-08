@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
   <meta charset="UTF-8" />
@@ -190,7 +190,7 @@
         </header>
 
         <div class="content">
-          <ul style="margin-right: 10rem;">
+          <ul>
             <li>Suporte Técnico: A empresa continua a fornecer suporte técnico confiável para resolver problemas de
               hardware e software, garantindo que seus clientes tenham um ambiente de trabalho eficiente.</li>
 
@@ -255,7 +255,7 @@
         </header>
 
         <div class="content">
-          <p style="margin-right: 10rem;">Com mais de 1.000 clientes atendidos e mais de dois anos de experiência no
+          <p>Com mais de 1.000 clientes atendidos e mais de dois anos de experiência no
             mercado, oferecem suporte
             técnico confiável, hardwares e softwares personalizados, e contam com uma equipe de mais de 28 profissionais
             qualificados. Sua missão envolve a escolha entre atendimento remoto ou presencial, otimizando o tempo do
@@ -276,11 +276,9 @@
   <section id="contact">
     <div class="wrapper-contact">
       <div class="col-a">
-        <header>
-          <h2>Entre em contato com a gente!</h2>
-        </header>
+        <h2 class="contact-title">Lista de serviços prestados</h2>
 
-        <table summary="Lista de serviços prestados pela Lines par minute">
+        <table class="contact-table" summary="Lista de serviços prestados pela Lines par minute">
           <caption>Serviços oferecidos</caption>
           <tr>
             <th scope="col">Serviço</th>
@@ -304,7 +302,9 @@
           </tr>
         </table>
 
-        <form action="./forms.php" method="post">
+        <h2 class="contact-title">Entre em contato com a gente!</h2>
+
+        <form class="contact-form" action="./forms.php" method="post">
           <label for="nome">Nome:</label>
           <input type="text" id="nome" name="nome" required aria-required="true">
 
