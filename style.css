@@ -749,3 +749,31 @@ footer .social-links {
     margin-bottom: 0;
   }
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+caption {
+  background-color: #276259;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid hsl(171, 43%, 27%);
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #276259;
+  color: #ffffff;
+}
+
+tr:nth-child(even) {
+  background-color: #ccffd2;
+}
